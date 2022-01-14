@@ -6,7 +6,7 @@ import "fmt"
 //  node's  element, one per line. If the head pointer is null (indicating the list is empty), there is nothing to
 // print.
 
-// Function Description
+// **Function Description**
 
 // Complete the printLinkedList function in the editor below.
 
@@ -14,7 +14,7 @@ import "fmt"
 
 // SinglyLinkedListNode head: a reference to the head of the list
 
-// Print
+// **Print**
 
 // For each node, print its data value on a new line (console.log in Javascript).
 
